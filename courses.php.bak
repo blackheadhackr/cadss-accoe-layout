@@ -1,0 +1,539 @@
+<section>
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center mb-5">Featured Courses</h2>
+                <div class="courses-content owl-carousel owl-theme owl-loaded owl-drag">
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage">
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header three">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>Java Full stack Developer</span>
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header three">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>Python Full stack Developer</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header one">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>PHP Full Stack Developer</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header three">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>DSE(Diploma in software Engineering)</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>6 Months of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header one">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>MDSE(Master Diploma in software Engineering)</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>2 Years of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header one">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>ACAD(Accoet Certified Application Developer)</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Short Terms Course -->
+
+<section>
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center mb-5">Featured Courses</h2>
+                <div class="courses-content owl-carousel owl-theme owl-loaded owl-drag">
+                    <div class="owl-stage-outer">
+                        <div class="owl-stage">
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header three">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>Java Full stack Developer</span>
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header three">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>Python Full stack Developer</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header one">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>PHP Full Stack Developer</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header three">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>DSE(Diploma in software Engineering)</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>6 Months of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header one">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>MDSE(Master Diploma in software Engineering)</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>2 Years of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="owl-item">
+                                <div class="item courses-items">
+                                    <div class="courses-list">
+                                        <div class="course-trend">
+                                            <div class="course-trend-header one">
+                                                <div class="course-trend-header-img">
+                                                    <img src="img/Cloud_COmputing_(2).svg" alt="Cloud Computing"
+                                                        width="52" height="52">
+                                                </div>
+                                                <span>ACAD(Accoet Certified Application Developer)</span>                                                
+                                            </div>
+                                            <div class="course-trend-lower">
+                                                <div class="courses-features">
+                                                    <ul>
+                                                        <li><i class="fas fa-clock"></i>1 Year of Learning</li>
+                                                        <li><i class="fas fa-project-diagram"></i>1 Industrial Project</li>
+                                                        <li><i class="fas fa-user-tie"></i>100% Job Assignment</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="courses-reviews">
+                                                    <div class="courses-reviews-star">
+                                                        <div class="star">
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fa fa-star"></i>
+                                                            <i class="fas fa-star-half-alt"></i>
+                                                        </div>
+                                                        <span> <strong> 4.9</strong> (65489 Votes)</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a class="course-view" href="#">
+                                            <div class="btn">
+                                                <span>View More</span>
+                                                <i class="fas fa-angle-right"></i>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- End Short Terms Course -->
